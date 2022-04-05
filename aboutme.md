@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+hello, I am a graduate student at oregon state university interested in computational research methods to asnwer ecological questions. I'm originally from a suburb of seattle and in my freetime enjoy reading and hiking. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Current projects include:
 
-What else do you need?
+Species Distribution Models of the ghost shrimp, Neotrypaea gigas.
 
-### My story
+Illumina MiSequencing of the sediment microbial diversity. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
