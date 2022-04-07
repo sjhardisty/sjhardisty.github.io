@@ -15,7 +15,8 @@ author: me
 
 navbar-links:
   About Me: "aboutme"
-  Resume: "/docs/Resume.pdf"
+  Resume: 
+    - pdf: "/docs/Resume.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
