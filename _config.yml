@@ -16,7 +16,7 @@ author: me
 navbar-links:
   About Me: "aboutme"
   Resume: 
-    - pdf: "my.github.io/docs/Resume.pdf"
+    - pdf: https://sjhardisty.github.io/docs/Resume.pdf
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
