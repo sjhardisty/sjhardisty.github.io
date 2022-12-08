@@ -10,5 +10,5 @@ Current projects include:
 
 Species Distribution Models of the ghost shrimp, <i> Neotrypaea gigas </i> 
 
-Illumina MiSequencing of the sediment microbial diversity associated with microbe burrows. 
+Sediment microbial diversity associated with the shrimp burrows. 
 
